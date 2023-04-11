@@ -55,9 +55,9 @@ I am just trying to solve real-life problems with code one step at a time.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CSheppardCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats-kappa-six-36.vercel.app/api?username=CSheppardCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CSheppardCodes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSheppardCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-kappa-six-36.vercel.app/api/top-langs/?username=CSheppardCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CSheppardCodes&theme=dark&no-frame=false&no-bg=true&margin-w=4)
