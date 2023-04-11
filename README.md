@@ -15,7 +15,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/7RUNuow9v0bUxrwgSw/giphy.gif" width="30px"/> About Me:
+## 👨🏻‍💻 About Me:
 Aspiring computer scientist with a focus on AI/ML. UTD CS' 23.
 I am just trying to solve real-life problems with code one step at a time.
 
@@ -61,8 +61,7 @@ I am just trying to solve real-life problems with code one step at a time.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CSheppardCodes&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
+--
 [![](https://visitcount.itsvg.in/api?id=CSheppardCodes&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
