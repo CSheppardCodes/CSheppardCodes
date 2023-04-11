@@ -30,7 +30,8 @@
 <br />
 
 # 💫 About Me:
-🔭 I’m currently working on my portfolio website to display my projects.<br>🌱 I’m currently learning with "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron.<br>👯 I’m looking to collaborate on Kaggle competitions and Hackathons!<br>📫 How to reach me: csheppard.programming@gmail.com<br>⚡ Fun fact: Me encanta el origami. Yo también hablo español.
+An aspiring computer scientist with a focus on AI/ML. UTD CS' 23.
+Building my version of the digital world one step at a time. 
 
 
 ## 🌐 Socials:
