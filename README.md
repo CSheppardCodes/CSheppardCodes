@@ -16,8 +16,8 @@
 
 
 ## 👨🏻‍💻 About Me:
-Aspiring computer scientist with a focus on AI/ML. UTD CS' 23.
-My goal is to solve real-life problems with code one step at a time.
+Aspiring computer scientist with a focus on AI/ML. @ UT Dallas CS' 23.
+My goal is to solve real-life problems with code one byte at a time.
 
 
 ## 🗨️ Socials:
