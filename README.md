@@ -15,7 +15,7 @@
 
 
 
-# 💫 About Me:
+## <img src="https://media.giphy.com/media/7RUNuow9v0bUxrwgSw/giphy.gif" width="30px"/> About Me:
 Aspiring computer scientist with a focus on AI/ML. UTD CS' 23.
 I am just trying to solve real-life problems with code one step at a time.
 
@@ -24,7 +24,7 @@ I am just trying to solve real-life problems with code one step at a time.
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/295228430969077761) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/500plus) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />          
@@ -51,10 +51,10 @@ I am just trying to solve real-life problems with code one step at a time.
 
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <br />
+<br/>
 
 
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats-kappa-six-36.vercel.app/api?username=CSheppardCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CSheppardCodes&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-kappa-six-36.vercel.app/api/top-langs/?username=CSheppardCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
