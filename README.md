@@ -1,3 +1,11 @@
+<p align='center'>
+</p>
+
+<h2 align="center">Hello There, I am Chris Sheppard and I code.
+    <img src="https://media.giphy.com/media/7RUNuow9v0bUxrwgSw/giphy.gif" width="30px"/></h2>
+<p>
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTYxMmE2OGQxZDFkNjkxNzFlY2JlZjc3NWNlNjJiN2Y4MDRkOWVmMiZjdD1z/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
   <div id="badges">
@@ -7,8 +15,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-CSheppardCodes&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hello There
-    <img src="https://media.giphy.com/media/7RUNuow9v0bUxrwgSw/giphy.gif" width="30px"/>
+    
   </h1>
 </div>
 <div align="center">
