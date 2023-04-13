@@ -68,7 +68,8 @@ My goal is to solve real-life problems with code one byte at a time.
 
 <br />
 <br     />       
-<br />
+<br /> 
+.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats-kappa-six-36.vercel.app/api?username=CSheppardCodes&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
