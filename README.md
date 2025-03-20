@@ -16,7 +16,7 @@
 
 
 ## 👨🏻‍💻 About Me:
-Aspiring computer scientist with a focus on AI/ML @ UT Dallas CS' 23.
+Aspiring computer scientist with a focus on AI/ML @ Georgia Tech CS' 27.
 My goal is to solve real-life problems with code one byte at a time.
 
 
